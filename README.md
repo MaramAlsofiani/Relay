@@ -1,3 +1,4 @@
- #Relay
+Relay
 
-Forward-reverse control for Dc motor by using SPDT relay. which is the switche aim at closing and opening the circuits electronically as well as electromechanically. 
+Forward-reverse control for Dc motor by using SPDT relay. 
+The relay is the switche aims at closing and opening the circuits electronically as well as electromechanically. 
